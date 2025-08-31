@@ -1,0 +1,12 @@
+[
+  {
+    "item": "apples",
+    "quantity": 1,
+    "category": "Produce"
+  },
+  {
+    "item": "apples",
+    "quantity": 2,
+    "category": "Produce"
+  }
+]
