@@ -5,8 +5,53 @@
     "category": "Produce"
   },
   {
-    "item": "apples",
-    "quantity": 2,
+    "item": "artery bananas",
+    "quantity": 1,
+    "category": "Other"
+  },
+  {
+    "item": "bananas",
+    "quantity": 3,
     "category": "Produce"
+  },
+  {
+    "item": "oranges",
+    "quantity": 5,
+    "category": "Other"
+  },
+  {
+    "item": "pineapples",
+    "quantity": 2,
+    "category": "Other"
+  },
+  {
+    "item": "oranges",
+    "quantity": 3,
+    "category": "Other"
+  },
+  {
+    "item": "oranges",
+    "quantity": 5,
+    "category": "Other"
+  },
+  {
+    "item": "oranges",
+    "quantity": 10,
+    "category": "Other"
+  },
+  {
+    "item": "bananas",
+    "quantity": 5,
+    "category": "Produce"
+  },
+  {
+    "item": "pineapples",
+    "quantity": 16,
+    "category": "Other"
+  },
+  {
+    "item": "unknowns",
+    "quantity": 29,
+    "category": "Other"
   }
 ]
