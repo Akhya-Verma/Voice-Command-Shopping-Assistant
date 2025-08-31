@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000"; // our backend
+const API_URL = "https://voice-command-shopping-assistant-neux.onrender.com"; // our backend
 
 // 🎙 Send a voice/text command (add/remove items)
 export async function sendCommand(command) {
